@@ -17,6 +17,6 @@ React and TypeScript site with an English/Russian content model, reduced-motion 
 
 ## Stack
 
-Rust · Win32 · Slint · TypeScript · React · PowerShell · GitHub Actions
+Rust · Win32 · Slint · TypeScript · React
 
 [Email](mailto:wannaslyy@gmail.com)
